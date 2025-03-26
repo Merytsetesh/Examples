@@ -5,4 +5,3 @@ The whole thing was written in a rather clunky way as I was (re-)learning as I w
 I'm proud of the *MegaVIC*, for all its unfinished state and clunky code. I love the Commodore VIC-20, underpowered and inelegant as she was even for her time: she helped to shepherd in a whole wave of computer users of all ages, and she was there at the very beginning. Besides: she was my first computer, and that, to those who know, means everything.
 
 READY.
-#
