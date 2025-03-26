@@ -1,1 +1,8 @@
-MegaVIC samples
+The *MegaVIC* was my 'COVID project'. It started life as an interpreter for Commodore BASIC v2 (as on the VIC-20) but -- as these things do -- it took on a life of its own. It ended up drawing inspiration from just about all the 8-bit machines: as well as the VIC-20, I took instructions from the BBC Micro (e.g. `CHAIN`), syntax checking on BASIC line entry (from Atari BASIC), and was cobbling together a whole system. The system's BASIC dialect, MegaBASIC, is my own as well.
+
+The whole thing was written in a rather clunky way as I was (re-)learning as I was going along. I had the idea as well that it could be a useful teaching tool: not for 'how not to program' necessarily but how programming languages worked, how operation systems interfaced with programs, and the like. Had I continued with the project then it would have gone into another, more refined, iteration of itself. As it was I hit the buffers quite hard: firstly, I began to realise that what I **really** was going to need was a simulated processor; and, secondly, when I came down with COVID, which eventually became 'long COVID'.
+
+I'm proud of the *MegaVIC*, for all its unfinished state and clunky code. I love the Commodore VIC-20, underpowered and inelegant as she was even for her time: she helped to shepherd in a whole wave of computer users of all ages, and she was there at the very beginning. Besides: she was my first computer, and that, to those who know, means everything.
+
+READY.
+#
